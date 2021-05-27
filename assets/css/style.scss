@@ -1,14 +1,14 @@
 ---
 ---
 
-$customcolor: deeppink;
+$customcolor: lightsalmon;
 $header: $customcolor;
 
 @import "{{ site.theme }}";
 
 
 header {
-  border-bottom: 1px dashed $customcolor;
+  border-bottom: 1px dashed gray;
 }
 
 header h1 {
