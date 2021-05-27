@@ -1,16 +1,21 @@
 ---
 ---
 
-$pumpkin: #ffbe65;
-$header: $pumpkin;
+$customcolor: deeppink;
+$header: $customcolor;
 
 @import "{{ site.theme }}";
 
 
 header {
-  border-bottom: 1px dashed $pumpkin;
+  border-bottom: 1px dashed $customcolor;
 }
 
 header h1 {
-  color: $pumpkin;
+  color: $customcolor;
+}
+
+ul li {
+  list-style-image: none;
+  color: $customcolor;
 }
