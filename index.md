@@ -9,7 +9,6 @@ Integrate hCAPTCHA validation into your forms.
 - [Github Sources](https://github.com/c10d-dev/craft-hcaptcha)
 
 
-<br>
 ## Monthly Donations
 
 ### Asahi Linux (2022)
@@ -28,7 +27,6 @@ Godot is a cross-platform, free and open-source game engine.
 - [Patreon](https://www.patreon.com/godotengine)
 
 
-<br>
 ## Opinions
 
 ### TODO 😅 (WIP)

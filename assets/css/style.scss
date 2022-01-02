@@ -15,6 +15,14 @@ header h1 {
   color: $customcolor;
 }
 
+hr {
+  color: $customcolor;
+}
+
+ul {
+  margin-bottom: 10px;
+}
+
 ul li {
   list-style-image: none;
   color: $customcolor;
