@@ -12,7 +12,7 @@ Integrate hCAPTCHA validation into your forms.
 <br>
 ## Monthly Donations
 
-### Asahi Linux
+### Asahi Linux (2022)
 
 Asahi Linux aims to bring you a polished Linux® experience on Apple Silicon Macs.
 
@@ -20,12 +20,15 @@ Asahi Linux aims to bring you a polished Linux® experience on Apple Silicon Mac
 - [Patreon](https://www.patreon.com/marcan)
 
 
-<br>
-## Past Donations
-
-### Godot Engine
+### Godot Engine (2021)
 
 Godot is a cross-platform, free and open-source game engine.
 
 - [Godot Engine](https://godotengine.org/)
 - [Patreon](https://www.patreon.com/godotengine)
+
+
+<br>
+## Opinions
+
+### TODO 😅 (WIP)
