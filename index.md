@@ -27,6 +27,17 @@ Godot is a cross-platform, free and open-source game engine.
 - [Patreon](https://www.patreon.com/godotengine)
 
 
-## Opinions
+## Tools
 
-### TODO 😅 (WIP)
+### Web Development
+
+- linux
+- gnome-terminal
+- bash
+- vim
+- git
+- docker
+- screen + tmux
+- meld
+- ripgrep
+- utt
