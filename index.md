@@ -8,6 +8,14 @@ Integrate hCAPTCHA validation into your forms.
 - [Packagist Composer](https://packagist.org/packages/c10d/craft-hcaptcha)
 - [Github Sources](https://github.com/c10d-dev/craft-hcaptcha)
 
+### reCAPTCHA v3 for Craft CMS
+
+Integrate reCAPTCHA validation into your forms.
+
+- [Craft Plugin](https://plugins.craftcms.com/craft-recaptcha)
+- [Packagist Composer](https://packagist.org/packages/c10d/craft-recaptcha)
+- [Github Sources](https://github.com/c10d-dev/craft-recaptcha)
+
 
 ## Monthly Donations
 
