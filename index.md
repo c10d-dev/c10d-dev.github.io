@@ -108,6 +108,10 @@ in combinaison with [screen](https://www.gnu.org/software/screen/) + [tmux](http
 
 - [dbeaver](https://dbeaver.io)
 
+### Images
+
+- [gimp](https://www.gimp.org)
+
 ### Audio/Video
 
 - [mpv](https://mpv.io)
@@ -118,7 +122,7 @@ in combinaison with [screen](https://www.gnu.org/software/screen/) + [tmux](http
 - [jq](https://jqlang.github.io/jq/)
 - [gron](https://github.com/tomnomnom/gron)
 
-### Other CLI essentials
+### Other essential commands
 
 - [dasel](https://github.com/TomWright/dasel) / [miller](https://github.com/johnkerl/miller)
 - [xargs](https://www.gnu.org/software/findutils/) / [parallel](https://www.gnu.org/software/parallel/)
