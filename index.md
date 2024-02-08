@@ -37,17 +37,91 @@ Godot is a cross-platform, free and open-source game engine.
 
 ## Tools
 
+### System
+
+- [Ubuntu](https://ubuntu.com) with [GNOME](https://www.gnome.org)
+- macOS (if you have to...)
+
+### Terminal
+
+- gnome-terminal
+- [terminator](https://gnome-terminator.org)
+- [alacritty](https://alacritty.org)
+- [kitty](https://github.com/kovidgoyal/kitty)
+- [iterm2](https://iterm2.com)
+
+in combinaison with [screen](https://www.gnu.org/software/screen/) + [tmux](https://github.com/tmux/tmux)
+
+### Shell
+
+- [bash](https://www.gnu.org/software/bash/)
+
+### Editor
+
+- [vim](https://www.vim.org)
+- [vscodium](https://vscodium.com)
+- [zed](https://zed.dev)
+- [lapce](https://lapce.dev)
+
+### Source Management
+
+- [git](https://git-scm.com) in combinaison with [tig](https://jonas.github.io/tig/)
+
+### Diffing
+
+- vimdiff
+- [meld](https://meldmerge.org/)
+- [difftastic](https://difftastic.wilfred.me.uk)
+
+### Search
+
+- [grep](https://www.gnu.org/software/grep/)
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+- [find](https://www.gnu.org/software/findutils/)
+- [fzf](https://github.com/junegunn/fzf)
+
+### Time Tracking
+
+- [utt](https://github.com/larose/utt)
+
+### Notes
+
+- [obsidian](https://obsidian.md)
+
+### HTTP Clients
+
+- [httpie](https://httpie.io)
+- [curl](https://curl.se)
+
+### Web Browsers
+
+- [firefox](https://www.mozilla.org/fr/firefox/browsers/)
+- [chromium](https://www.chromium.org/Home/)
+- [waterfox](https://www.waterfox.net)
+- [min](https://minbrowser.org)
+
 ### Web Development
 
-- linux (Ubuntu, Debian, Arch...)
-- terminal (gnome-terminal, alacritty, iterm2...)
-- shell (bash)
-- editor (vim, emacs...)
-- scm (git, fossil...)
-- docker
-- screen + tmux
-- diffing (meld, difft...)
-- search (grep, ripgrep, find...)
-- time tracking (utt)
-- notes (obsidian)
-- browser (firefox, chromium, waterfox, min...)
+- [docker](https://www.docker.com)
+
+### Database Clients
+
+- [dbeaver](https://dbeaver.io)
+
+### Audio/Video
+
+- [mpv](https://mpv.io)
+- [ffmpeg](https://ffmpeg.org)
+
+### JSON
+
+- [jq](https://jqlang.github.io/jq/)
+- [gron](https://github.com/tomnomnom/gron)
+
+### Other CLI essentials
+
+- [dasel](https://github.com/TomWright/dasel) / [miller](https://github.com/johnkerl/miller)
+- [xargs](https://www.gnu.org/software/findutils/) / [parallel](https://www.gnu.org/software/parallel/)
+- [tar](https://www.gnu.org/software/tar/) / [7z](https://www.7-zip.org)
+- [sed](https://www.gnu.org/software/sed/)
+- [awk](https://www.gnu.org/software/gawk/)
