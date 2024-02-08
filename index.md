@@ -39,13 +39,15 @@ Godot is a cross-platform, free and open-source game engine.
 
 ### Web Development
 
-- linux
-- gnome-terminal
-- bash
-- vim
-- git
+- linux (Ubuntu, Debian, Arch...)
+- terminal (gnome-terminal, alacritty, iterm2...)
+- shell (bash)
+- editor (vim, emacs...)
+- scm (git, fossil...)
 - docker
 - screen + tmux
-- meld
-- ripgrep
-- utt
+- diffing (meld, difft...)
+- search (grep, ripgrep, find...)
+- time tracking (utt)
+- notes (obsidian)
+- browser (firefox, chromium, waterfox, min...)
