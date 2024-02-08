@@ -39,12 +39,12 @@ Godot is a cross-platform, free and open-source game engine.
 
 ### System
 
-- [Ubuntu](https://ubuntu.com) with [GNOME](https://www.gnome.org)
-- macOS (if you have to...)
+- [Ubuntu](https://ubuntu.com) <span class="highlight">with</span> [GNOME](https://www.gnome.org)
+- <span class="highlight">macOS (if you have to...)</span>
 
 ### Terminal
 
-- gnome-terminal
+- <span class="highlight">gnome-terminal</span>
 - [terminator](https://gnome-terminator.org)
 - [alacritty](https://alacritty.org)
 - [kitty](https://github.com/kovidgoyal/kitty)
@@ -65,11 +65,11 @@ in combinaison with [screen](https://www.gnu.org/software/screen/) + [tmux](http
 
 ### Source Management
 
-- [git](https://git-scm.com) in combinaison with [tig](https://jonas.github.io/tig/)
+- [git](https://git-scm.com) <span class="highlight">in combinaison with</span> [tig](https://jonas.github.io/tig/)
 
 ### Diffing
 
-- vimdiff
+- <span class="highlight">vimdiff</span>
 - [meld](https://meldmerge.org/)
 - [difftastic](https://difftastic.wilfred.me.uk)
 
