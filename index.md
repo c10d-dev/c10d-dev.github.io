@@ -1,5 +1,14 @@
 ## Projects
 
+### Multiplications App
+
+Educational mini-game designed to help you learn and practice your multiplication tables from 0 to 12.
+
+- Android Link (TBD)
+- iOS Link (TBD)
+- [Privacy Policy](https://c10d.dev/en/multiplications/privacy-policy)
+
+
 ### hCAPTCHA for Craft CMS
 
 Integrate hCAPTCHA validation into your forms.
@@ -17,38 +26,17 @@ Integrate reCAPTCHA validation into your forms.
 - [Github Sources](https://github.com/c10d-dev/craft-recaptcha)
 
 
-## Monthly Donations
-
-### Asahi Linux (2022)
-
-Asahi Linux aims to bring you a polished Linux® experience on Apple Silicon Macs.
-
-- [Asahi Linux](https://asahilinux.org/)
-- [Patreon](https://www.patreon.com/marcan)
-
-
-### Godot Engine (2021)
-
-Godot is a cross-platform, free and open-source game engine.
-
-- [Godot Engine](https://godotengine.org/)
-- [Patreon](https://www.patreon.com/godotengine)
-
-
 ## Tools
 
 ### System
 
-- [Ubuntu](https://ubuntu.com) <span class="highlight">with</span> [GNOME](https://www.gnome.org)
+- [AerynOS](https://aerynos.dev) <span class="highlight">with</span> [GNOME](https://www.gnome.org)
 - <span class="highlight">macOS (if you have to...)</span>
 
 ### Terminal
 
 - <span class="highlight">gnome-terminal</span>
-- [terminator](https://gnome-terminator.org)
-- [alacritty](https://alacritty.org)
-- [kitty](https://github.com/kovidgoyal/kitty)
-- [iterm2](https://iterm2.com)
+- [waveterm](https://www.waveterm.dev)
 
 in combinaison with [screen](https://www.gnu.org/software/screen/) + [tmux](https://github.com/tmux/tmux)
 
@@ -59,9 +47,7 @@ in combinaison with [screen](https://www.gnu.org/software/screen/) + [tmux](http
 ### Editor
 
 - [vim](https://www.vim.org)
-- [vscodium](https://vscodium.com)
 - [zed](https://zed.dev)
-- [lapce](https://lapce.dev)
 
 ### Source Management
 
@@ -84,10 +70,6 @@ in combinaison with [screen](https://www.gnu.org/software/screen/) + [tmux](http
 
 - [utt](https://github.com/larose/utt)
 
-### Notes
-
-- [obsidian](https://obsidian.md)
-
 ### HTTP Clients
 
 - [httpie](https://httpie.io)
@@ -97,16 +79,6 @@ in combinaison with [screen](https://www.gnu.org/software/screen/) + [tmux](http
 
 - [firefox](https://www.mozilla.org/fr/firefox/browsers/)
 - [chromium](https://www.chromium.org/Home/)
-- [waterfox](https://www.waterfox.net)
-- [min](https://minbrowser.org)
-
-### Web Development
-
-- [docker](https://www.docker.com)
-
-### Database Clients
-
-- [dbeaver](https://dbeaver.io)
 
 ### Images
 
