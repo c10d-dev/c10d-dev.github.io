@@ -4,8 +4,8 @@
 
 Educational mini-game designed to help you learn and practice your multiplication tables from 0 to 12.
 
-- Android Link (TBD)
-- iOS Link (TBD)
+- [Android App Link](https://play.google.com/store/apps/details?id=dev.c10d.multiply)
+- iOS App Link (TBD)
 - [Privacy Policy](https://c10d.dev/en/multiplications/privacy-policy)
 
 
