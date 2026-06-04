@@ -5,7 +5,7 @@
 Educational mini-game designed to help you learn and practice your multiplication tables from 0 to 12.
 
 - [Android App Link](https://play.google.com/store/apps/details?id=dev.c10d.multiply)
-- iOS App Link (TBD)
+- [iOS App Link](https://apps.apple.com/app/multiplications/id6775247421)
 - [Privacy Policy](https://c10d.dev/en/multiplications/privacy-policy)
 
 
