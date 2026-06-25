@@ -5,7 +5,7 @@
 An application designed to help you learn and practice Japanese Hiragana and Katakana.
 
 - [Android App Link](https://play.google.com/store/apps/details?id=dev.c10d.jp_kana)
-- [iOS App Link](TBD)
+- iOS App Link (TBD)
 - [Privacy Policy](https://c10d.dev/en/jp-kana/privacy-policy)
 
 
